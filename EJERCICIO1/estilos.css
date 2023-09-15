@@ -1,0 +1,107 @@
+
+.html{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.body{
+    background-color:darkslategrey ;
+    font-size: 20px;
+}
+
+/*PRODUCTOS*/
+.body .header{ 
+    color: darkcyan;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+/*TEXTO GENERAL*/
+.body .main{
+    color: white;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*ASPIRADORAS*/
+.body .main .section .aspiradoras .Header{
+    color: #e6cbbf;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 2px #77553e;
+}
+
+.body .main .section .aspiradoras .Main .img{
+    border: 8px solid pink;
+    margin-left: 40px;
+}
+
+/*CELULARES*/
+.body .main .section .celulares .Header{
+    color: #a1c1cb;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 2px #677d86;
+}
+
+.body .main .section .celulares .Main .img{
+    border: 8px solid #a1c1cb;
+    margin-left: 40px;
+}
+
+/*CONSOLAS*/
+.body .main .section .consolas .Header{
+    color: #bcbdbf;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 2px #4c7096;
+}
+
+.body .main .section .consolas .Main .img{
+    border: 8px solid #bcbdbf;
+    margin-left: 40px;
+}
+
+/*HOME THEATERS*/
+.body .main .section .home-theaters .Header{
+    color: #bcbdbf;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 2px #5e6a7e;
+}
+
+.body .main .section .home-theaters .Main .img{
+    border: 8px solid #bcbdbf;
+    margin-left: 40px;
+}
+
+/*TELEVISORES*/
+.body .main .section .televisores .Header{
+    color: #b2b2aa;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 2px 2px #7b6f61;
+}
+
+.body .main .section .televisores .Main .img{
+    border: 8px solid #b2b2aa;
+    margin-left: 40px;
+}
+
+
+
+
+

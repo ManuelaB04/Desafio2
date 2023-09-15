@@ -1,0 +1,76 @@
+.html{
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    color: #3e68aa;
+}
+
+/*LOGO*/
+.body .Header .section .logo .img{
+    width: 25%; 
+    height: auto; 
+    object-fit: cover;
+    text-align: center;
+    margin-left: 38%;
+}
+
+/*SUBTITULO*/
+.body .main .section .conoce{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #bc5fa4;
+    text-align: center;
+    font-size: 200%;
+}
+
+/*POP CENTURY RESORT*/
+.body .main .section .popcentury .Header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #bc5fa4;
+}
+
+.body .main .section .popcentury .main .img{
+    float:right; 
+    width: 25%; 
+    height: auto; 
+    object-fit: cover;
+    text-align: right
+}
+
+/*DISNEY'S CARIBBEAN BEACH RESORT*/
+.body .main .section .DisneyCaribbean .Header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #bc5fa4;
+}
+
+.body .main .section .DisneyCaribbean .main .img{
+    float:left; 
+    width: 25%; 
+    height: auto; 
+    object-fit: cover;
+}
+
+/*DISNEY'S ANIMAL KINGDOM LODGE*/
+.body .main .section .DisneyAnimal .Header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #bc5fa4;
+}
+
+.body .main .section .DisneyAnimal .main .img{
+    float:right; 
+    width:25%; 
+    height: auto; 
+    object-fit: cover;
+    text-align: right;
+}
+
+/*MICKEY-MINNIE*/
+.body .main .section .mickey-minnie .img{
+    display: flex;
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover;
+}
